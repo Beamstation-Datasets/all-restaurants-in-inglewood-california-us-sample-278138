@@ -9,9 +9,9 @@
 | Dataset ID | `278138` |
 | Location | Inglewood |
 | Category | Restaurants |
-| Full dataset size | 273 records |
-| Free sample size | 27 records (9.89%) |
-| Last export | 2026-04-07T13:31:49.555026+00:00 |
+| Full dataset size | 274 records |
+| Free sample size | 27 records (9.85%) |
+| Last export | 2026-04-14T20:41:37.514232+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-inglewood-california-us-sample-278138/releases/download/sample-latest/beamstation_278138_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
