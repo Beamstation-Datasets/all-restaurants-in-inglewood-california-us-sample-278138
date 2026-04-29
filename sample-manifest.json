@@ -1,12 +1,12 @@
 {
-  "export_job_id": "989766e7-26f8-4234-872a-d0e02d41e2ed",
+  "export_job_id": "d55d728b-bd79-4529-952f-2b87478ac5c3",
   "id_short": 278138,
-  "published_at": "2026-04-22T07:18:30Z",
+  "published_at": "2026-04-29T07:31:02Z",
   "repo_name": "all-restaurants-in-inglewood-california-us-sample-278138",
   "sample_asset_name": "beamstation_278138_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/278138/beamstation_278138_restaurants-us-ca_SAMPLE_DIST.csv",
-  "sample_records": 26,
-  "sample_sha256": "aa10451cbbc264d4c3cdf0c7bb4204844e4833e6733a6b8ae16a1795367db819",
-  "sample_size_bytes": 101655,
-  "total_records": 263
+  "sample_records": 11,
+  "sample_sha256": "a84bb55f563994f6e2d1dc94742b069f4c5d7ef06aef1d02f048f66c9a950fcc",
+  "sample_size_bytes": 53992,
+  "total_records": 115
 }
